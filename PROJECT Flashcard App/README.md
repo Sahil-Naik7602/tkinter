@@ -1,0 +1,3 @@
+# FlashCard App Project
+
+in this project,using panda module in python .csv files containing french words and their english meaning are iterated and using tkinter it is represented as a GUI in form of flashcard to test whether you know the meaning of that french word or not. If 'yes' you know that word then it will pass on to next flashcard else the flashcard will flip to show the meaning and that french word will be saved in another .csv file so that at the end we can get to know what are all french words that we still need to learn.  
